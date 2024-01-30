@@ -1,0 +1,30 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment directories (e.g., created by virtualenv or venv)
+venv/
+env/
+/feedback_with_NLP/
+
+# Ignore IDE-specific files and directories (e.g., created by Visual Studio Code)
+.vscode/
+.idea/
+
+# Ignore the __pycache__ directory (created by Python)
+__pycache__/
+
+# Ignore logs and other temporary or generated files
+*.log
+*.swp
+*.swo
+*.swn
+*.tmp
+*.db
+*.sqlite3
+
+# Ignore the "dist" and "build" directories (created by Python packaging tools)
+dist/
+build/
+
+# Ignore the "__pycache__" directory (created by Python)
+__pycache__/
